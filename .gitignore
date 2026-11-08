@@ -24,9 +24,10 @@ hs_err_pid*
 replay_pid*
 
 # Ignore intellij files
-.idea/*
+.idea/
 *.iml
 
-out/*
-target/*
+# Build output
+out/
+target/
 
